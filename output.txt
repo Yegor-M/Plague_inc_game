@@ -1,0 +1,10 @@
+Apartment id:31aa8463-0825-437b-8856-f0c12890b5a0, Apartment volume:12.0, Apartment items:Skies and size is 5.0; Skies and size is 5.0; Snowboard and size is 9.0; 
+Apartment id:264bf340-4944-4ab3-ae53-2ed371e0928e, Apartment volume:40.0, Apartment items:Shelf and size is 9.0; Desk and size is 11.0; Tent and size is 17.0; 
+Apartment id:5737c98e-dcfb-433a-9894-098cd7e41dc3, Apartment volume:65.0, Apartment items:Skies and size is 5.0; Skies and size is 5.0; Snowboard and size is 9.0; 
+Apartment id:7847987b-93cc-4076-b100-5bad29f87ee9, Apartment volume:78.0, Apartment items:Skateboard and size is 2.0; Gift and size is 8.0; Shelf and size is 10.0; 
+Apartment id:58406605-3960-4195-a073-973554688d39, Apartment volume:90.0, Apartment items:Skies and size is 5.0; Skies and size is 5.0; Snowboard and size is 9.0; 
+Apartment id:112810c2-9c39-4b02-a1ce-d75e9a84a96c, Apartment volume:132.0, Apartment items:Skies and size is 5.0; Skies and size is 5.0; Snowboard and size is 9.0; 
+Apartment id:3e43d091-41ae-4ca4-b8d2-9320b1d39e2c, Apartment volume:205.0, Apartment items:Skies and size is 5.0; Skies and size is 5.0; Snowboard and size is 9.0; 
+Apartment id:60444864-cdf0-4548-a403-a736b9a2dd4b, Apartment volume:260.0, Apartment items:Skies and size is 5.0; Skies and size is 5.0; Snowboard and size is 9.0; 
+Apartment id:df84620f-6585-4baf-9eb7-2677db7bf8e9, Apartment volume:350.0, Apartment items:Skies and size is 5.0; Skies and size is 5.0; Snowboard and size is 9.0; 
+Apartment id:c1d435a3-5ddf-4069-a703-f16021926902, Apartment volume:360.0, Apartment items:Bag and size is 1.0; Shelf and size is 10.0; Tent and size is 13.0; 
