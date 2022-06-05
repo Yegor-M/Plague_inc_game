@@ -1,1 +1,1 @@
-Plague Inc Game written on C++
+Plague Inc Gam
