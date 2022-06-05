@@ -1,1 +1,1 @@
-# Plague_inc
+Plague Inc Game written on C++
